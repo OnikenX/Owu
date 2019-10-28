@@ -4,7 +4,7 @@ Tradutor de uwu e owo
 Este tradutor é basiado no classico Lok, este em vez de usar lols e oks ele usa owos e uwus.
 
 
-    Copyright (C) 2019 OnikeX
+    Copyright (C) 2019 OnikenX
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
